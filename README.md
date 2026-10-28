@@ -9,8 +9,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black)](YOUR_PORTFOLIO_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElenaHeydari)
 
 </div>
 
