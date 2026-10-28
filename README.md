@@ -72,10 +72,4 @@
 </div>
 *Projects coming soon — stay tuned!*
 
----
 
-<div align="center">
-
-### `// Keep building. Keep learning.`
-
-</div>
