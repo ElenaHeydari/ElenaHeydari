@@ -3,7 +3,7 @@
 
 # Hey, I'm Elena 👋
 
-### Full-Stack Developer | Building for the Web
+### Software-Engineer/Developer 
 
 *Turning ideas into clean, scalable, and interactive applications.*
 
